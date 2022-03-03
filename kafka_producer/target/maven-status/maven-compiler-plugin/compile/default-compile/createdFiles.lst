@@ -1,0 +1,7 @@
+com\suth\service\UserService.class
+com\suth\model\User.class
+com\suth\config\HibernateConfiguration.class
+com\suth\service\KafkaSender.class
+com\suth\controller\ProducerController.class
+com\suth\KafkaProducerApplication.class
+com\suth\repository\UserRepository.class
